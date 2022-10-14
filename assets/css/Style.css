@@ -1,0 +1,80 @@
+.backgroundColorNav{
+    background-color: #082c6c !important;
+    color: white !important;
+}
+.textNav{
+    color: white !important;
+    font-size: 25px;
+}
+.textCenter{
+    text-align: center;
+}
+.navbar.custom {
+    width: 80% !important;  
+    margin: 0 auto !important;
+  }
+  .nav-item{
+    padding:0px 10px;
+
+  }
+  .navbar{
+    padding: 20px 20px;
+    position: fixed;
+    width:100%;
+  }
+.heightFull{
+    flex :1;
+
+}
+.sectionOne{
+    padding-top: 90px;
+    background-color: gainsboro;
+}
+.tittleSectionOne{
+    color: #24242c;
+    font-size: 50px;
+    font-weight: 600;
+}
+.sectionProjetos{
+    padding-top: 90px;
+    background-color: gainsboro;
+}
+.tittleSectionProjetos{
+    color: #24242c;
+    font-size: 50px;
+    font-weight: 400;
+
+}
+.tittleSubtitulo{
+    color:#24242c;
+    font-size: 20px;
+    font-weight: 200;
+}
+.tittleSectionEnunciado{
+    color: #24242c;
+    font-size: 25px;
+    font-weight: 400;
+}
+.sectionProjetos{
+    padding: 0px 100px;
+ 
+}
+.alinhar-centro {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    gap: 20%;
+}
+.lista-algoritmos {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 15px
+}
+.centrado {
+    display: flex;
+    justify-self: center;
+}
+#contagem {
+    padding-top: 100px;
+}
